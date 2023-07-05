@@ -1,0 +1,8 @@
+a=5
+print(a,'is of type:',type(a))
+b=6.2
+print(b,'is of type:',type(b))
+c=2+7j
+print(c,'is of type:',type(c))
+d='python'
+print(d,'is of type:',type(d))
