@@ -1,0 +1,9 @@
+s='50'
+n=float(s)
+print(n)
+b='10'
+a=str(b)
+print(a)
+z='2.5'
+y=str(z)
+print(y)
