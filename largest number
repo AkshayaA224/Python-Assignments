@@ -1,0 +1,3 @@
+a=(10,20,30,40,50)
+b=max(a)
+print('the largest number in the given list is:',b)
