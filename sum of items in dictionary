@@ -1,0 +1,4 @@
+dict={ 'x':455, 'y':223, 'z':300, 'p':908 }
+print("Dictionary: ", dict)
+print("sum: ",sum(dict.values()))
+
