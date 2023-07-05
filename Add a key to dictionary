@@ -1,0 +1,5 @@
+dict = {'key1': 'github', 'key2': 'army'}
+print(dict)
+dict['key2'] = 'for'
+dict['key3'] = 'python'
+print("Updated Dict is:", dict)
